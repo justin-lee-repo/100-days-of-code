@@ -25,10 +25,10 @@
 
 - Terminal
 - Code Editor - Visual Code
-  -IDEs - Pycharm or spyder
+  - IDEs - Pycharm or spyder
 - Notebooks - Jupiter Notebooks
-  -repl.it - This allows us to write Python w/o downloading all the tools above, just an all-in-one
-  -glot.io - Open sourced free that works the same
+  - repl.it - This allows us to write Python w/o downloading all the tools above, just an all-in-one
+  - glot.io - Open sourced free that works the same
 
 ### Our first Python Program
 
@@ -45,3 +45,15 @@
 
   print('helloooooo ' + name)
   ```
+
+### Python 2 vs. Python 3
+
+- Python 3 included breaking changes meaning Python 2 won't work
+- Python 3 came out in 2008
+
+### Why so many programming languages
+
+- Python is great for developer productivity so it's super easy to learn
+- Python is considered slow and slower performance when you're interpreting
+- Compared to C, it's a lot quicker
+- Each language has its strengths and weaknesses, it's all about trade-off. Essentially, langauges are tools that you use to accomplish your project, so choose the language that works best for you.
