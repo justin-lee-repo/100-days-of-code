@@ -33,9 +33,15 @@
 ### Our first Python Program
 
 - Print our own name
-  `print('Justin Lee')`
+
+```Python
+  print('Justin Lee')
+```
 
 - Input and storing a variable
-  `name = input('What is your name?')
 
-print('helloooooo ' + name)`
+  ```Python
+  name = input('What is your name?')
+
+  print('helloooooo ' + name)
+  ```
