@@ -4,7 +4,7 @@
 
 I'll be docuemnting my journey here of my path in learning Python and React. I've chosen to do two courses simultaneously mainly because I find that I lose focus when I'm doing a single thing consistently. I'm hoping by having two courses I can bounce around I can maintaim my focus.
 
-Here are some of the resources that I'll be using: [Resources](#resources)
+Here are some of the resources that I'll be using: [Resources](#tools)
 
 ### Week 1
 
