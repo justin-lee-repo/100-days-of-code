@@ -65,4 +65,22 @@
   print(2 / 4)
   print(2 - 4)
   ```
-- You can
+- You can use two multiplication signs to get the power of
+
+```Python
+print(2 ** 4) = 16
+```
+
+- You can then also use two division signs to get to the nearest integer
+
+```python
+print(2 // 4) = 0
+```
+
+- The modulo sign which is the percetage % sign gets you the remainder
+
+```python
+print(5 % 4) = 1
+```
+
+## Math Functions
