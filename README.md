@@ -8,9 +8,9 @@ Here are some of the resources that I'll be using: [Resources](#resources)
 
 ### Week 1
 
-| Day 1                                                                                                     | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
-| --------------------------------------------------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | ...   | ...   | ...   | ...   | ...   | ...   |
+| Day 1                                                                                                     | Day 2                                       | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----- | ----- | ----- | ----- | ----- |
+| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | ...   | ...   | ...   | ...   | ...   |
 
 <!-- TEMPLATE -->
 
@@ -24,6 +24,36 @@ Here are some of the resources that I'll be using: [Resources](#resources)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day #2:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Data Types
+    - Integers
+    - Floats
+  - Mathmatical Operations
+    - \*\* = power of
+    - // = nearest integer
+    - % = remainder
+- Time: 45 minutes
+
+### Today's Topic(s)
+
+Going through the basics has really reinforced concepts when learning JS. I'm starting to grasp the foundational elements of code. This section has been laregely review, but there were some data types that I wasn't too familiar with such as dict or tuble. Really eager to see what the differences are between them.
+
+I hope declaring variables within scope won't be as tough as in JS haha.
+
+Math basics were pretty easy to understand honestly, but some of the mathmatical operations were pretty cool to see in action.
+
+### Journal
+
+Feeling pretty good so far. Nothing has been too tough for me so far. Eager to dive right in to learn more about functions already but I awknowledge there are enough differences between JS and Python syntax that I feel like I really need to make sure I don't overlook these things.
+
+Also, given how busy life is these days, I don't think this will be 100 consecutive days of code. Really, this will be 100 days of non-consecutive code.
 
 ## Day #1:
 
