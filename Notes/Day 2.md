@@ -84,3 +84,21 @@ print(5 % 4) = 1
 ```
 
 ## Math Functions
+
+- Round
+
+```python
+print(round(3.1)) = 3
+```
+
+- abs
+
+```python
+print(abs(-20)) = 20
+```
+
+## Developer Fundamentals
+
+- Don't read the dictionary
+- Understand the tools that you're using so that you know how to google things.
+- This course will go over 20% of the material that is used 80% of the time.
