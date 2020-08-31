@@ -8,9 +8,9 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 
 ### Week 1
 
-| Day 1                                                                                                     | Day 2                                       | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----- | ----- | ----- | ----- | ----- |
-| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | ...   | ...   | ...   | ...   | ...   |
+| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4 | Day 5 | Day 6 | Day 7 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ----- | ----- | ----- | ----- |
+| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | ...   | ...   | ...   | ...   |
 
 <!-- TEMPLATE -->
 
@@ -24,6 +24,29 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day #3:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Data Types
+    - Bin
+    - Complex
+    - Variables
+- Time: 25
+
+### Today's Topic(s)
+
+Pretty simple today, just bin and complex, they were pretty easy to understand and follow. I think Bin can be a useful feature, already thinking about how in the broader context, how these number data types can help with converting different values to one another when connecting APIs and what not.
+
+Complex was also cool to learn as we can see why Python is loved by the Math community. Excited to see in future topics how we can use Python in Math and Science applications
+
+### Journal
+
+Don't really have any updates. This was a short sprint today, going to focus more on variables in the next days.
 
 ## Day #2:
 
