@@ -8,9 +8,9 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 
 ### Week 1
 
-| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4 | Day 5 | Day 6 | Day 7 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ----- | ----- | ----- | ----- |
-| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | ...   | ...   | ...   | ...   |
+| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4               | Day 5             | Day 6 | Day 7 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- | ----- | ----- |
+| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) | ...   | ...   |
 
 <!-- TEMPLATE -->
 
@@ -24,6 +24,47 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day #5:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Strings
+  - Escape sequences
+  - String Index
+- Time: 60 min
+
+### Today's Topic(s)
+
+Made some great progress today and while familiar withe these concepts, there are definately awesome features Python has in handling these. Specifically, string concatenation is pretty easy to do and reminds me a lot of JSX in React.
+
+String index going into negative is awesome, nifty little trick that you can use to reverse a string which I've found is a popular test they like to do in interviews. Though I assume they'd probably ask you multiple ways to reverse strings and not just the copy out method that Pythong provides haha.
+
+### Journal
+
+I realized I need to cut these a bit shorter, as excited as I am to write about what I learn, it's not sustainable to spend 20 minutes on writing these summaries everyday when I could be working on more code.
+
+## Day #4:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Variables
+  - Rapidly assigning variables
+- Time: 20 min
+
+### Today's Topic(s)
+
+Pretty basic knowledge of variables, knowing this from JS this wasn't too new. Really like how you can rapidly assign variables in Python, 1,b,c = 1,2,3. I don't believe this is a feature in JS. Also great to see Dunders here, i saw this a lot in the code base at another company so never knew what this was
+
+### Journal
+
+- Short day today, great snippets of information here
 
 ## Day #3:
 
