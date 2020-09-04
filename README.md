@@ -8,9 +8,9 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 
 ### Week 1
 
-| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4               | Day 5             | Day 6 | Day 7 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- | ----- | ----- |
-| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) | ...   | ...   |
+| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4               | Day 5             | Day 6                                       | Day 7 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- | ------------------------------------------- | ----- |
+| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) | [More Stirngs, Methods, Commenting](#day-6) | ...   |
 
 <!-- TEMPLATE -->
 
@@ -24,6 +24,29 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day #6:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Immutability
+  - Commenting
+  - Methods and functions
+  - Booleons
+- Time: 40
+
+### Today's Topic(s)
+
+Another great day of topics, again great to see similarities between Python and Javascript. The commenting video on when to make comments was also interesting as it's not a good practice to just write too many comments.
+
+Booleons and Methods/Functions were pretty easy to understand
+
+### Journal
+
+Nothing new for today, just glad to be able to hit a milestone today which is 2/3 done with this chapter. A few more videos until I've learned all the basics!
 
 ## Day #5:
 
