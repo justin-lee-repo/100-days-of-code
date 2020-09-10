@@ -2,7 +2,7 @@
 
 ---
 
-## Immutability
+### Immutability
 
 - Once a value has been assigned, it can be re-assigned
 - However, you can change the variable such as changing the numbers in a given index
@@ -15,7 +15,7 @@ selfish = selfish + 8
 selfish now equals '012345678'
 ```
 
-## Built-in Functions + Methods
+### Built-in Functions + Methods
 
 - Examples
   - len() this function counts the length of a string
@@ -24,12 +24,12 @@ selfish now equals '012345678'
   - .upper will make the entire string uppercase
   - .replace('be', 'me') will replace the values however, the String is not immutable so if that string is not re-assigned the changes will dissapear
 
-## Booleans
+### Booleans
 
 - This is true or false
 - 1 is true, 0 is false
 
-## Excersise 1
+### Excersise 1
 
 Prompt: Given 'birth_year = input('what year were you born?')
 
@@ -41,7 +41,7 @@ age = int(birth_year) - 2020
 print(f'Your age is {age}')
 ```
 
-## Commenting
+### Commenting
 
 - Python uses the pound (#) sign. This is only a single line though
 - Adding comments should give value to the code
