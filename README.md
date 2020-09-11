@@ -10,9 +10,13 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- |
 | [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) |
 
-| Day 6                                       | Day 7                                             | Day 8                                                   | Day 9                                      | Day 10 |
-| ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | ------ |
-| [More Stirngs, Methods, Commenting](#day-6) | [Data Structure (Lists and List Methods)](#day-7) | [Data Structures (Dictionary and Dict methods)](#day-8) | [Data Structures(Tuples and Sets)](#day-9) | ---    |
+| Day 6                                       | Day 7                                             | Day 8                                                   | Day 9                                      | Day 10                            |
+| ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | --------------------------------- |
+| [More Stirngs, Methods, Commenting](#day-6) | [Data Structure (Lists and List Methods)](#day-7) | [Data Structures (Dictionary and Dict methods)](#day-8) | [Data Structures(Tuples and Sets)](#day-9) | [Conditional Statements](#day-10) |
+
+| Day 11 | Day 12 | Day 13 | Day 14 | Day 15 |
+| ------ | ------ | ------ | ------ | ------ |
+| ---    | ---    | ---    | ---    | ---    |
 
 <!--| Day 11 | Day 12 | Day 13 | Day 14 | Day 15 |
 | --- | --- | --- | --- | --- |
@@ -36,6 +40,25 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day # 10:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Conditional Statements
+  - Turnary Operator
+- Time: 60
+
+### Today's Topic(s)
+
+Did a lot of if/else statements or conditional statements today. Learned some more operators as well. I really like how this class is structured, when I learned JS, it was throwing all the operators at you at once, without much context on how to use it. By combining the operators as well as conditional statements together, I get more context as to how these are used.
+
+### Journal
+
+No roadblocks today, made a decent dent into this class. The next few sections should involved a lot more searching and researching so I think this will be good practice. Also tried to make the markdown tables above look prettier, but my formatter extension in VScode is making me put in all of the hyphens, so please excuse the disorganization in my raw code.
 
 ## Day #9:
 
