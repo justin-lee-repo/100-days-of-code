@@ -6,11 +6,23 @@ I'll be docuemnting my journey here of my path in learning Python and React. I'v
 
 Here are some of the resources that I'll be using: [Resources](#tools)
 
-### Week 1
+| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4               | Day 5             |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- |
+| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) |
 
-| Day 1                                                                                                     | Day 2                                       | Day 3                                       | Day 4               | Day 5             | Day 6                                       | Day 7 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------- | ------------------------------------------- | ----- |
-| [The Basics, Markdown, How does Python work as a high level language, interpreters vs. compilers](#day-1) | [Int, float, math operations basic](#day-2) | [Operator Precednece, bin, complex](#day-3) | [Variables](#day-4) | [Strings](#day-5) | [More Stirngs, Methods, Commenting](#day-6) | ...   |
+| Day 6                                       | Day 7                                             | Day 8                                                   | Day 9                                      | Day 10 |
+| ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | ------ |
+| [More Stirngs, Methods, Commenting](#day-6) | [Data Structure (Lists and List Methods)](#day-7) | [Data Structures (Dictionary and Dict methods)](#day-8) | [Data Structures(Tuples and Sets)](#day-9) | ---    |
+
+<!--| Day 11 | Day 12 | Day 13 | Day 14 | Day 15 |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+
+| Day 16 | Day 17 | Day 18 | Day 19 | Day 20 |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+
+-->
 
 <!-- TEMPLATE -->
 
@@ -24,6 +36,64 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day #9:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Tuples
+  - Sets
+- Time: 30
+
+### Today's Topic(s)
+
+Tuples and Sets were pretty easy to follow here, I think these are more advanced functionaly compared to JS. Tuples are interesting in that these seem like really fixed. Definately would love to see how we use it in our code base.
+
+### Journal
+
+No roadblocks, getting a lot more familiar with methods vs function. This also completed the first portion of the Python basics course now since we've finished all the data types and structures. Moving onto functions next. WOO!!
+
+## Day #8:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Dictionary
+  - Dictionary Methods
+- Time: 30
+
+### Today's Topic(s)
+
+Went over dictionaries today, I'm guessing i'll be using these the most though since these are what a lot of JSON objects will come in. But this was pretty fun to learn in general and there are a lot of great features compared to JS.
+
+### Journal
+
+No roadblocks here today, getting a bit more familar with functions vs methods. Plus, we're also going to be learning functions a lot more next. I guess one questions is why do you make something like len() a function vs method. I guess it's because you're creating a new variable to get the length and not modifying the existing variable.
+
+## Day # 7:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Lists
+  - List Methods
+  - Password Challenge
+- Time: 60
+
+### Today's Topic(s)
+
+We went over mainly lists and list methods today. Pretty simple. they're ordered, they're in the same memory space. Also did a password checker today, that was pretty easy to do and did a great job with variables too!
+
+### Journal
+
+Going to use this space for roadblocks too. Main roadblocks is that I always get confused with functions vs methods. For example, there is a len function here where you can do len(my_list) which gives you a length. However, there are other methods like .pop and stuff, and someties I get confused. I think just something I need to keep an eye on.
 
 ## Day #6:
 
