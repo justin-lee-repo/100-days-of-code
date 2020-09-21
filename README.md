@@ -14,9 +14,9 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 | ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ | --------------------------------- |
 | [More Stirngs, Methods, Commenting](#day-6) | [Data Structure (Lists and List Methods)](#day-7) | [Data Structures (Dictionary and Dict methods)](#day-8) | [Data Structures(Tuples and Sets)](#day-9) | [Conditional Statements](#day-10) |
 
-| Day 11 | Day 12 | Day 13 | Day 14 | Day 15 |
-| ------ | ------ | ------ | ------ | ------ |
-| ---    | ---    | ---    | ---    | ---    |
+| Day 11                       | Day 12           | Day 13                                | Day 14                                 | Day 15                                                            |
+| ---------------------------- | ---------------- | ------------------------------------- | -------------------------------------- | ----------------------------------------------------------------- |
+| [Logical Operators](#day-11) | [Loops](#day-12) | [Functions, Break, Continue](#day-13) | [Methods vs. Functions, Args](#day-14) | [OOP: attributes vs. methods, init, class/staticmethods](#day-15) |
 
 <!--| Day 11 | Day 12 | Day 13 | Day 14 | Day 15 |
 | --- | --- | --- | --- | --- |
@@ -40,6 +40,137 @@ Here are some of the resources that I'll be using: [Resources](#tools)
 ### Today's Topic(s)
 ### Journal
 -->
+
+## Day # 15:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Object Oriented Programming Intro
+  - Attributes and Methods
+  - \_\_init\_\_
+  - classmethod vs static method
+- Time: 70
+
+### Today's Topic(s)
+
+We went over a good overview of what Object Oriented Programming is. Essentially a paradigm where we create blueprints for object types that are reusable and can be instantiated for when we need it. Think reusable components in React.
+
+This helped me understand methods a bit more since we're creating new object types and creating the methods to go along with it making this all the more powerful. Init was pretty basic kinda like the super() in React I think, but the naming convention makes a ton of sense since a lot of programs have a init file.
+
+classmethods vs staticmethods was cool to learn, but haven't really seen a practical application for it at this point, but good to keep in the back of my head
+
+### Journal
+
+I think today took the longest to wrap my head around these concepts. On the surface, I understand what OOP is and it makes sense, but i had a hard time understanding this in JS too so something I definately need to practice and understand on when I should use this. Overall no roadblocks, but whenever the next activity comes in, I'll need to spend more time on the concepts.
+
+## Day # 14:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Methods vs Functions
+  - Docstrings
+  - Clean Code
+  - Args and keyword args
+  - Scope
+- Time:
+
+### Today's Topic(s)
+
+Methods and Functions were always a point of confusion for me on this one. But essentially, functions is a algorithm that runs on the input and in most cases, they will create something new from the original
+
+Methods are essentially attached to some data type and modifies the existing data type but does not create something new. I should find a YT video or article on this. i'll put it in the journal section. Docstrings and clean code writing portions were good to know, this is definately a way of thinking I should pick up since i'm just starting up. A key concept here is that return exits the statement once compelte, so great tool to use to keep code clean.
+
+Args is pretty cool, i think this is essentialy the ... destructuring method in JS.
+
+And finally scope was pretty clear, seems like a much more logical way of doing scope than var vs let in JS.
+
+### Journal
+
+I found this article: https://www.tutorialspoint.com/difference-between-method-and-function-in-python for functions vs. methods. Essentially functions are standalone in the fact that you can invoke these whenever for any set of data. However, methods are only available to classes they're built into. That's whay lists and floats have different set of methods. However, functions like len() are functions because you can use it for pretty much anything.
+
+No roadblocks, but have to realize that now that I'm getting into more complicated topics, I do need to start slowing myself down a bit to make sure i'm understanding these core concepts.
+
+## Day # 13:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - GUI activity
+  - Break, Continue, Pass
+  - Functions
+  - Return
+  - Default Parameters
+- Time: 120
+
+### Today's Topic(s)
+
+Big day today in terms of topics covered, the GUI topic was cool in that I actually went in and did some digging on Google to find the answer, which is exactly how he proposed it.
+
+The break continue pass was a bit confusing though, something I need to brush up on. But functions are pretty similar to how they are in JS though so I didn't have too many issues with that. I really did like the way they explained return where without the keyword the function just stops, return is a way for the function to give something back once it's complete. And you can use return to just end the function with a single line like return num1+ num 2. Default parameters i think are pretty similar to react too, so that wasn't too hard to understand.
+
+### Journal
+
+So I was a bit confused as to when I would use break, continue, pass. This link was really helpful: https://www.w3resource.com/python/python-break-continue.php.
+
+So break is used to stop the loop when a condition is met. What's interesting is if you put break inside a for loop, it's inclusive meaning it'll run up to the condition. In a While loops, it's exclusive, meaning it'll run up to the condition is met but exclude that last one. The example in the link explains it a bit better.
+
+As for continue, it's essentially a skip button, so if the conditions are met and you have a continue, it will go back to the top of the loop for the next iterable without any action on the iterable that met the condition
+
+## Day # 12:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Loops
+  - While Loops
+  - Range
+- Time: 60
+
+### Today's Topic(s)
+
+This was fun today, we did all things loops today including basic for loops and while loops. These were pretty much the same as JS here. However, one concept I really liked was when we should determine the use of loops vs while loops. Essentially, if you know the length of the number of loops you want to make, you should use a for loop. But, if you don't know how many loos you want, use a while loop.
+
+One cool thing is that you can 'destructure' loops (not sure if this is the correct Python terminology) but essentially you can do for key, value == TRUE: print(key, value). So you can loop through dictionaries too.
+
+Underscores can be a replacement for variables if you don't really need that value anywhere else.
+
+Ranges were cool as well, great way to quickly tell how many times to loop through. So ranges have parameters range(min, max, and how many numbers to jump)
+
+### Journal
+
+No roadblocks today, for and while loops are pretty cool in Python too. Learning about range also jogged a few ideas on what I could possibly use this for as well.
+
+## Day # 11:
+
+---
+
+### tl;dr
+
+- Topic(s):
+  - Logical Operators
+  - is vs. ==
+  - For Loops
+- Time: 20
+
+### Today's Topic(s)
+
+Short course today, but essential information, we went over more of the logical operators including 'and' and 'and not' values here. We also understood the difference between == and is. == is checking for equality of value, this could mean is 1 == TRUE would be correct because it's comparing values. is keyword is checking for location in memory, so it must reference the exact value you found previously.
+
+One tricky sample here is with lists, since they're created separately, if you compare two blank lists [] is [], it will be false because it's not the same place in memory. As opposed to 1 is 1, which is true because they're in the same place
+
+### Journal
+
+No roadblocks, basic concepts tooday that were pretty to understand. I guess one question I have is that are all integers in the same place in memory, so it's never instantiated right?
 
 ## Day # 10:
 

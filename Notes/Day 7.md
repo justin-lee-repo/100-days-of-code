@@ -210,7 +210,7 @@ print(sorted(basket))
 - This allows you to sort the basket and produces a new array
 - the original basket has not been modified, it has created a new one.
 
-##### Reverse
+#### Reverse
 
 ```python
 
@@ -220,3 +220,4 @@ print(basket)
 ```
 
 - It reverses the basket in place, it doesn't sort, but it just trades the places of all the index
+
